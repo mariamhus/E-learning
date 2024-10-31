@@ -79,7 +79,10 @@
 
 - Express.
 
-- MongoDB ----->Mongoose.
+- MongoDB ----->Mongoose.c
+
+________________________________________
+deployment link: https://minds-on.vercel.app/
 
 - Typescript.
 
